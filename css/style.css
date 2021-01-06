@@ -16,6 +16,7 @@ h2,h3{
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem ;
   color: #66BFBF;
+  font-weight: normal;
 }
 .top-container{
   background-color: #E4F9F5;
@@ -31,4 +32,15 @@ h2,h3{
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.dev-img,.andro-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
